@@ -10,3 +10,25 @@ layout: home
 ## Systems Design Engineering 2019
 
 [benjamin@bcaldwell.ca](mailto:benjamin@bcaldwell.ca)
+
+## Skills
+##### Infrastructure 
+- Docker
+- Kubernetes
+- Ansible
+- Linux
+- NGINX
+
+##### Languages
+- Ruby
+- Golang
+- Javascript
+- HTML/CSS
+- Python
+- C++
+- SQL
+
+##### Tools
+- Git
+- Arduino
+- Raspberry Pi

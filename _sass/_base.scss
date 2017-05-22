@@ -1,0 +1,38 @@
+body {
+  background-color: $background-color;
+  color: $text-color;
+
+  box-shadow: inset 0 0 200px rgba(0, 0, 0, 0.4);
+
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+
+  margin: 0;
+  padding: 0;
+
+}
+
+.home-header {
+  padding: 100px;
+
+  h1 {
+    font-weight: lighter;
+    font-size: 80px;
+  }
+
+}
+
+.home-body {
+  background-color: $body-background;
+  color: $body-color; 
+
+  text-align: left;
+}
+
+.container {
+  max-width: 900px;
+  padding: 10px;
+  margin: auto;
+  font-size: 20;
+  font-weight: 300;
+}
