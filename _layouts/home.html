@@ -4,6 +4,19 @@ layout: default
 
 <div class="home-header">
   <h1>Benjamin <b>Caldwell</b></h1>
+
+  {% for info in site.information %}
+    <p>
+      {% if info.link %}
+      <a href="{{ info.link }}">
+      {% endif %}
+      <i class="fa fa-{{ info.icon}} " aria-hidden="true"></i> {{ info.name }}
+      {% if info.link %}
+      </a>
+      {% endif %}
+    </p>
+  {% endfor %}
+
 </div>
 
 <div class="home-body">

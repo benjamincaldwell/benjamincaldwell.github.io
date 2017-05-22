@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-
+<!--
 # Benjamin Caldwell
 
 ## Systems Design Engineering 2019
@@ -31,4 +31,4 @@ layout: home
 ##### Tools
 - Git
 - Arduino
-- Raspberry Pi
+- Raspberry Pi-->
