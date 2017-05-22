@@ -4,8 +4,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-<!--
-# Benjamin Caldwell
+{% comment %}
+# Benjamin Caldwell <i class="fa fa-graduation-cap" aria-hidden="true"></i>
 
 ## Systems Design Engineering 2019
 
@@ -31,4 +31,5 @@ layout: home
 ##### Tools
 - Git
 - Arduino
-- Raspberry Pi-->
+- Raspberry Pi
+{% endcomment %}
