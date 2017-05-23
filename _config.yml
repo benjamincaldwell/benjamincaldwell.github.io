@@ -25,7 +25,7 @@ github_username:  jekyll
 google_analytics: UA-99776024-1
 
 information:
-  - name: Systems Design Engineering 2019
+  - name: University of Waterloo Systems Design Engineering 2019
     icon: graduation-cap
   - name: benjamin@bcaldwell.ca
     icon: envelope
@@ -36,7 +36,7 @@ information:
   - name: linkedin.com/in/caldwellbenjamin
     icon: linkedin
     link: https://www.linkedin.com/in/caldwellbenjamin
-  - name: hub.docker.com/u/benjamincaldwell/
+  - name: hub.docker.com/u/benjamincaldwell
     icon: docker
     link: https://hub.docker.com/u/benjamincaldwell/
 
